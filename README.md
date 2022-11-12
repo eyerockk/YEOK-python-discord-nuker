@@ -1,14 +1,21 @@
 # YEOK-python-discord-nuker
 • A very fast, easy, and simple nuker
+
 • The purpose of this was to show how these bots work
+
 • I have put comments explaining everything in the COMMENTS version of the file
 
 # Features
 • Ban All
+
 • Create lots of channels
+
 • Mass ping server
+
 • Delete all channels
+
 • Create lots of roles
+
 • Delete all roles
 
 # GUI:

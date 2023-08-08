@@ -1,7 +1,7 @@
 # YEOK-python-discord-nuker
-• A very fast, easy, and simple nuker
+• A very fast, easy, and simple nuker -- note: This is an old version
 
-• The purpose of this was to show how these bots work
+• Educational Purposes
 
 • I have put comments explaining everything in the COMMENTS version of the file
 
